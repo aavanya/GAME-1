@@ -1,2 +1,2 @@
-# GAME-1
-LETS PLAY IT
+# p5.play-boilerplate
+Boiler plate for p5.play
